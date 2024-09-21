@@ -20,7 +20,7 @@ It also prints some basic statistics about the generated numbers.
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/Infinite-Number-Graph.git
+   git clone https://github.com/daniel-inderos/Infinite-Number-Graph.git
    cd Infinite-Number-Graph
    ```
 
@@ -31,5 +31,7 @@ It also prints some basic statistics about the generated numbers.
 
 ## Usage
 
-Run the script with:
-
+Run the script:
+```
+python random_number_graph.py
+```
